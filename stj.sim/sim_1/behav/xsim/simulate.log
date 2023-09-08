@@ -1,0 +1,190 @@
+Time resolution is 1 ps
+Senaryo 1: 4 + 5 * 3
+TOPLAMAYA GÝRÝLDÝ
+STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:   3
+Stack           1. eleman:   4
+Stack           2. eleman:   5
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+STACK KONTROLÜ BÝTTÝ
+TOPLAMA SONRASI STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:   3
+Stack           1. eleman:   9
+Stack           2. eleman:   0
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+STACK KONTROLÜ BÝTTÝ
+stackptr: 2
+ ÇARPMA STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:  27
+Stack           1. eleman:   0
+Stack           2. eleman:   0
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+ÇARPMA STACK KONTROLÜ BÝTTÝ
+Senaryo 1 Baþarýlý: 3 + 4 * 5 =  27
+Senaryo 2: 10 * 2 + 7
+ ÇARPMA STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:  20
+Stack           1. eleman:   0
+Stack           2. eleman:   0
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+ÇARPMA STACK KONTROLÜ BÝTTÝ
+TOPLAMAYA GÝRÝLDÝ
+STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:  20
+Stack           1. eleman:   7
+Stack           2. eleman:   0
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+STACK KONTROLÜ BÝTTÝ
+TOPLAMA SONRASI STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:  27
+Stack           1. eleman:   0
+Stack           2. eleman:   0
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+STACK KONTROLÜ BÝTTÝ
+stackptr: 1
+Senaryo 2 Baþarýlý: 10 * 2 + 7 =  27
+Senaryo 3: 5 * 6 + 8 * 2
+ ÇARPMA STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:  30
+Stack           1. eleman:   0
+Stack           2. eleman:   0
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+ÇARPMA STACK KONTROLÜ BÝTTÝ
+ ÇARPMA STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:  30
+Stack           1. eleman:  16
+Stack           2. eleman:   0
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+ÇARPMA STACK KONTROLÜ BÝTTÝ
+TOPLAMAYA GÝRÝLDÝ
+STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:  30
+Stack           1. eleman:  16
+Stack           2. eleman:   0
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+STACK KONTROLÜ BÝTTÝ
+TOPLAMA SONRASI STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:  46
+Stack           1. eleman:   0
+Stack           2. eleman:   0
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+STACK KONTROLÜ BÝTTÝ
+stackptr: 1
+Senaryo 3 Baþarýlý: 5 * 6 + 8 * 2 =  46
+Senaryo 4: 3 + (6 * 7 * 5) + 6 * 7
+ ÇARPMA STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:   3
+Stack           1. eleman:   6
+Stack           2. eleman:  35
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+ÇARPMA STACK KONTROLÜ BÝTTÝ
+ ÇARPMA STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:   3
+Stack           1. eleman: 210
+Stack           2. eleman:   0
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+ÇARPMA STACK KONTROLÜ BÝTTÝ
+ ÇARPMA STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:   3
+Stack           1. eleman: 210
+Stack           2. eleman:  42
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+ÇARPMA STACK KONTROLÜ BÝTTÝ
+TOPLAMAYA GÝRÝLDÝ
+STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:   3
+Stack           1. eleman: 210
+Stack           2. eleman:  42
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+STACK KONTROLÜ BÝTTÝ
+TOPLAMA SONRASI STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:   3
+Stack           1. eleman: 252
+Stack           2. eleman:   0
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+STACK KONTROLÜ BÝTTÝ
+stackptr: 2
+TOPLAMAYA GÝRÝLDÝ
+STACK KONTROLÜ BAÞLADI
+Stack           0. eleman:   3
+Stack           1. eleman: 252
+Stack           2. eleman:   0
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+STACK KONTROLÜ BÝTTÝ
+TOPLAMA SONRASI STACK KONTROLÜ BAÞLADI
+Stack           0. eleman: 255
+Stack           1. eleman:   0
+Stack           2. eleman:   0
+Stack           3. eleman:   0
+Stack           4. eleman:   0
+Stack           5. eleman:   0
+Stack           6. eleman:   0
+Stack           7. eleman:   0
+STACK KONTROLÜ BÝTTÝ
+stackptr: 1
+Senaryo 4 Baþarýlý: 3 + (6 * 7 * 5) + 6 * 7 = 255
+$finish called at time : 370 ns : File "C:/Users/Musa/stj/stj.srcs/sim_1/new/stj_tb.v" Line 105

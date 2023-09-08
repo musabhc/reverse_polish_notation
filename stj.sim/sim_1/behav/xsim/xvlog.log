@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Musa/stj/stj.srcs/sources_1/new/stj.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RPN_Module
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Musa/stj/stj.srcs/sim_1/new/stj_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RPN_Module_Testbench
