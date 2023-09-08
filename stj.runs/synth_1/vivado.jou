@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Wed Jul 26 16:11:39 2023
+# Process ID: 28340
+# Current directory: C:/Users/Musa/stj/stj.runs/synth_1
+# Command line: vivado.exe -log RPN_Module.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source RPN_Module.tcl
+# Log file: C:/Users/Musa/stj/stj.runs/synth_1/RPN_Module.vds
+# Journal file: C:/Users/Musa/stj/stj.runs/synth_1\vivado.jou
+# Running On: DESKTOP-D7NHA9U, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 50747 MB
+#-----------------------------------------------------------
+source RPN_Module.tcl -notrace
