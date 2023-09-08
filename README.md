@@ -18,7 +18,7 @@ Vivado
 
 ### Installing
 
-Just download the project and open it.
+Download the project and open it by stj.xpr file.
 
 ```
 Design Sources:
