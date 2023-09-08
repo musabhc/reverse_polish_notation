@@ -161,9 +161,9 @@ module RPN_Module(
                             */
 						end
 						
-					2'b11: begin 
+					2'b11: begin // Check
 						pop(stack_ptr, result_reg);
-						$display("Kontrol edilen deger = %d", result_reg);
+						$display("Result_Reg = %d", result_reg);
 						push(stack_ptr, result_reg);
 						end
 							/*
